@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nu000
+- 👋 Hi, I’m Nuwanthika
 - 👀 I’m interested in Front End Web Development
 - 🌱 I’m currently working as a Senior Sofware Engineer
 - 💞️ I’m looking to collaborate on React JS projects
